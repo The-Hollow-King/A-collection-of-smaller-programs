@@ -9,3 +9,6 @@ This is a collection of my smaller projects
    Accepts principal amount, rate, time period (in years), calculate the simple interest, in a variable called si and prints the amount of simple interest the user would be paying.
 4) Employee_Salary_Calculator :
    Accepts the users name, salary and according to their basic salary, calculates their dearness allowance, house rent allowance, travel allowance, net salary payment, provident fund and gross salary at last and displays       the specific values
+5) Odd_Even_Checker :
+    The program accepts an integer from the user and checks whether the number is odd or even and gives user the output accordingly
+   
