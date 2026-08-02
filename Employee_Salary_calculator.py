@@ -12,11 +12,15 @@ net_sal = bs + DA + HRA + TA
 gross_sal = net_sal - PF
 
 #output
+print("SALARY DETAILES")
+print("=============================================")
 print("NAME OF THE EMPLOYEE :", name)
 print("BASIC SALARY :", +bs)
 print("DEARNESS ALLOWANCE :", +DA)
 print("HOUSE RENT ALLOWANCE :", +HRA)
 print("TRAVEL ALLOWANCE :", +TA)
+print("=============================================")
 print("NET SALARY PAY :", +net_sal)
 print("PROVIDENT FUND :", +PF)
+print("=============================================")
 print("GROSS PAYMENT :", +gross_sal)
